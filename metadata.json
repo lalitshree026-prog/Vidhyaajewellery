@@ -1,0 +1,6 @@
+{
+  "name": "VIDHYAA Jewellery Studio",
+  "description": "Luxury women's jewellery brand e-commerce store offering gold imitation, silver 92.5, oxidised jewellery, and premium watches with UPI checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
